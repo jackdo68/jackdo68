@@ -1,5 +1,16 @@
 # Hi, I'm Jack Do 👋
 
+Software Engineer based in Sydney, Australia 🇦🇺
+
+## 🙋‍♂️ About me
+- ❤️ Strong in TypeScript, Node.js, AWS, microservices and event-driven architecture
+- ✍️ I love writing about tech on my blog — [Tech Unpack](https://technunpack.substack.com)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/jack-do-777747140)
+
+## 🛠️ Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,dotnet,nodejs,react,vue,aws,dynamodb,postgres,mongodb,elasticsearch,docker,kubernetes,terraform,grafana,prometheus,rabbitmq,gitlab,jest&perline=10)](https://skillicons.dev)
+
 ## 📊 Languages I Use
 
 <picture>
