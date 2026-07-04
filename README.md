@@ -11,7 +11,7 @@ Software Engineer based in Sydney, Australia 🇦🇺
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,react,aws,dynamodb,postgres,docker,kubernetes,&perline=10)](https://skillicons.dev)
 
-## 📊 Languages I Use
+## 📊 Languages 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackdo68&theme=github_dark">
