@@ -9,7 +9,7 @@ Software Engineer based in Sydney, Australia 🇦🇺
 
 ## 🛠️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,dotnet,nodejs,react,vue,aws,dynamodb,postgres,mongodb,elasticsearch,docker,kubernetes,terraform,grafana,prometheus,rabbitmq,gitlab,jest&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,nodejs,react,aws,dynamodb,postgres,docker,kubernetes,&perline=10)](https://skillicons.dev)
 
 ## 📊 Languages I Use
 
