@@ -1,0 +1,46 @@
+name: Update language stats
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily at 06:17 UTC
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - scripts/update-languages.mjs
+      - .github/workflows/update-languages.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-languages
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Regenerate Languages section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: node scripts/update-languages.mjs
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update language stats"
+            git push
+          else
+            echo "No README changes to commit."
+          fi
