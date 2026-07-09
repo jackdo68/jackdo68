@@ -3,7 +3,7 @@
 Software Engineer based in Sydney, Australia 🇦🇺
 
 ## 🙋‍♂️ About me
-- ❤️ Strong in TypeScript, Node.js, AWS, microservices and event-driven architecture
+- ❤️ Strong backend development using NodeJs and C#/.Net
 - ✍️ I love writing about tech on my blog — [Tech Unpack](https://technunpack.substack.com)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/jack-do-777747140)
 
