@@ -20,10 +20,10 @@ Software Engineer based in Sydney, Australia 🇦🇺
 | Language | Repos | Share | |
 | :-- | --: | :-- | --: |
 | `TypeScript` | 11 | `███████████████░░░░░` | 73.3% |
-| `Java` | 1 | `█░░░░░░░░░░░░░░░░░░░` | 6.7% |
-| `Vim script` | 1 | `█░░░░░░░░░░░░░░░░░░░` | 6.7% |
-| `C#` | 1 | `█░░░░░░░░░░░░░░░░░░░` | 6.7% |
+| `Vim Script` | 1 | `█░░░░░░░░░░░░░░░░░░░` | 6.7% |
 | `PLpgSQL` | 1 | `█░░░░░░░░░░░░░░░░░░░` | 6.7% |
+| `Java` | 1 | `█░░░░░░░░░░░░░░░░░░░` | 6.7% |
+| `C#` | 1 | `█░░░░░░░░░░░░░░░░░░░` | 6.7% |
 
 **Top Languages by Code Size** _(excludes HTML, CSS, JavaScript)_
 
@@ -40,6 +40,6 @@ Software Engineer based in Sydney, Australia 🇦🇺
 | `Rust` | 5 KB | `░░░░░░░░░░░░░░░░░░░░` | 0.9% |
 | `Go` | 4 KB | `░░░░░░░░░░░░░░░░░░░░` | 0.7% |
 
-<sub>🔄 Auto-updated 2026-07-09 via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-07-10 via GitHub Actions.</sub>
 
 <!-- LANGUAGES:END -->
